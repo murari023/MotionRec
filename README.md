@@ -6,4 +6,12 @@ This repository contains a Keras implementation of the paper 'MotionRec: A Unifi
 Contact: Murari Mandal(murarimandal.cv@gmail.com)
 
 # Sample Results
-
+<div class="embed-container">
+  <iframe
+      src="https://youtu.be/sTYvo4c2eJY"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
