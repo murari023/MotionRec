@@ -7,7 +7,7 @@ Due to lack of available benchmark datasets with labelled bounding boxes for MOR
 frames.
 
 # Paper
-[MotionRec: A Unified Deep Framework for Moving Object Recognition] (http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_MotionRec_A_Unified_Deep_Framework_for_Moving_Object_Recognition_WACV_2020_paper.html)
+[MotionRec: A Unified Deep Framework for Moving Object Recognition](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_MotionRec_A_Unified_Deep_Framework_for_Moving_Object_Recognition_WACV_2020_paper.html)
 
 # BibTex
 @InProceedings{Mandal_2020_WACV,
